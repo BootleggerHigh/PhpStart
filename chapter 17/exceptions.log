@@ -1,0 +1,5 @@
+AttributeException: Атрибут  не определен in C:\OSPanel\domains\localhost\phpstart\chapter 17\Users.php:27
+Stack trace:
+#0 C:\OSPanel\domains\localhost\phpstart\chapter 17\Users.php(27): Users->__get('index')
+#1 C:\OSPanel\domains\localhost\phpstart\chapter 17\main.php(12): Users->__get('fdsfdf')
+#2 {main}1001Атрибут  не определен
